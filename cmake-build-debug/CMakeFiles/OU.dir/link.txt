@@ -1,0 +1,3 @@
+C:\Users\Kamil\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\OU.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\OU.dir/objects.a @CMakeFiles\OU.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\OU.dir/objects.a -Wl,--no-whole-archive  -o OU.exe -Wl,--out-implib,libOU.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OU.dir\linklibs.rsp
